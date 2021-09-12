@@ -1,6 +1,14 @@
-# foto_gallery_app
+# Foto Gallery Mobile App
 
-A new Flutter project.
+This is a Flutter mobile app that displays images post built during my Pre tech training.
+
+## Screenshots
+
+<img align="left" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_1.png?raw=true" width="200" height="400"/>
+<img align="right" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_2.png?raw=true" width="200" height="400"/>
+<br>
+<img align="left" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_3.png?raw=true" width="200" height="400"/>
+<img align="right" src="https://github.com/RegNex/MyFotoGalleryApp/blob/main/screenshots/image_4.png?raw=true" width="200" height="400"/>
 
 ## Getting Started
 
